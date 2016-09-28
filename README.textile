@@ -1,0 +1,8 @@
+h1. CheckServer
+
+h3. What's it?
+This is a simple PHP lib for help you know if your webserver is work correcly. You just call any function for discovery how fine is your server.
+The code below return true if your server is up and false if not works.
+
+bc. <?php
+$server1 = is_up('http://mysite.com');
