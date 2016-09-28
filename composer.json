@@ -1,0 +1,13 @@
+{
+    "name": "dsandrade/checkserver",
+    "description": "A PHP lib for check if your server is up!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Andrade",
+            "email": "didi.ufs@gmail.com"
+        }
+    ],
+    "require": {}
+}
