@@ -1,5 +1,5 @@
 {
-    "name": "dsandrade/checkserver",
+    "name": "didijudo/checkserver",
     "description": "A PHP lib for check if your server is up!",
     "type": "library",
     "license": "MIT",
@@ -9,5 +9,8 @@
             "email": "didi.ufs@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+			"php": "^5.2"
+		},
+		"minimum-stability": "alpha"
 }
