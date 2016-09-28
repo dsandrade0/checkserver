@@ -20,6 +20,10 @@ function is_up($url) {
 	}
 }
 
+/**
+ * @param $url 
+ * @result boolean
+ **/
 function is_down($url) {
 	$pos = strpos(@get_headers($url)[0], '404');
 	if ($pos > -1) {
