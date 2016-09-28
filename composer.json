@@ -9,5 +9,8 @@
             "email": "didi.ufs@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+			"php": "^5.2"
+		},
+		"minimum-stability": "alpha"
 }
